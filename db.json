@@ -2,13 +2,18 @@
   "users": [
     {
       "id": 1,
-      "name": "David",
+      "name": "Abu",
       "age": 30
     },
     {
-      "name": "John",
+      "name": "Muhd",
       "id": 2,
       "age": 40
+    }
+        {
+      "name": "Ali",
+      "id": 3,
+      "age": 41
     }
   ]
 }
