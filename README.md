@@ -1,1 +1,1 @@
-# trivia-bizapp
+# Trivia Bizapp
