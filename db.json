@@ -23,13 +23,20 @@
     },
     {
       "id": 5,
+      "title": "Trivia 💡 : Koleksi Produk",
+      "desc": "Tahukah anda, setiap produk anda boleh kategorikan ia supaya ejen/dropship/pelanggan dapat memudahkan carian produk anda? Cuba dulu di Menu --> Koleksi Produk. Selepas itu, kemaskini produk dan pilih koleksi yang anda sudah cipta tadi.",
+      "img": "",
+      "url": ""
+    },
+    {
+      "id": 6,
       "title": "Berita : Bizappage (Affiliate Salespage)",
       "desc": "Modul baru iaitu BIZAPPAGE kini tersedia bagi HQ untuk membina salespage anda bagi sesuatu produk. BIZAPPAGE juga boleh digunakan bersama oleh ejen-ejen anda. Jom cuba sekarang!",
       "img": "https://firebasestorage.googleapis.com/v0/b/bizapptrackallonlineuser.appspot.com/o/salespagenx1pro.png?alt=media&token=de3c271b-657c-44dc-a181-80935fd47f96",
       "url": "https://www.facebook.com/bizappmalaysia/posts/pfbid024zfDh2WGPMzsjhrzB2G5RwoyCaWqj9FzfXMNd3HWSgBaVDBGrD3S9X5H61Yk7tsPl"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Berita : Bizapp - WooCommerce (Affiliate)",
       "desc": "Anda seorang ejen? Ada website woocommerce sendiri dan mahu integrasikan produk-produk HQ anda? Jom cuba Bizapp-Woocommerce (Affiliate) sekarang!",
       "img": "https://firebasestorage.googleapis.com/v0/b/bizapptrackallonlineuser.appspot.com/o/230414_BIZAPP-WOOCOMMERCE%20(InApps).png?alt=media&token=b2c1d373-20ea-4b62-b020-335ed95d9678",
