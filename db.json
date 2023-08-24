@@ -16,41 +16,55 @@
     },
     {
       "id": 3,
+      "title": "Trivia 💡 : Diskaun Mengikut Kuantiti",
+      "desc": "Anda boleh setkan diskaun produk mengikut kuantiti di Menu --> Produk --> Produk Anda --> pilih produk dan tekan tetapkan diskaun mengikut kuantiti.",
+      "img": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "Trivia 💡 : Set Harga Bundle",
+      "desc": "Pernah dengar beli 3 dapat harga RM 100? Fungsi ini sudah tersedia di dalam Bizapp! Pergi ke Menu --> Produk --> Produk Anda --> pilih Set Harga Bundle. Jom cuba sekarang.",
+      "img": "",
+      "url": ""
+    },
+    {
+      "id": 5,
       "title": "Trivia 💡 : Upgrade Package",
       "desc": "Terdapat 6 pilihan pakej di dalam Bizapp. Lihat di Menu --> Upgrade Package.",
       "img": "",
       "url": ""
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Trivia 💡 : Rekod Tempahan",
       "desc": "Sebagai ejen atau dropship, anda juga boleh semak semula tempahan yang sudah anda hantar kepada HQ/Stokis. Semak di Menu --> Rekod Tempahan",
       "img": "",
       "url": ""
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Trivia 💡 : Koleksi Produk",
       "desc": "Tahukah anda, setiap produk anda boleh kategorikan ia supaya ejen/dropship/pelanggan dapat memudahkan carian produk anda? Cuba dulu di Menu --> Koleksi Produk. Selepas itu, kemaskini produk dan pilih koleksi yang anda sudah cipta tadi.",
       "img": "",
       "url": ""
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "Berita : Bizappos",
       "desc": "Kedai anda tiada sistem Point of Sales (P.O.S) ? Memperkenalkan sistem yang anda boleh gunakan untuk menyimpan data jualan terus dari peranti Android/iOS anda. ",
       "img": "https://firebasestorage.googleapis.com/v0/b/bizapptrackallonlineuser.appspot.com/o/221215_Download%20Bizappos%20(InApps).png?alt=media&token=12e3dfbf-18d0-4569-8d8b-6a3dff5b0a3d",
       "url": "https://bizappos.com"
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "Berita : Bizappage (Affiliate Salespage)",
       "desc": "Modul baru iaitu BIZAPPAGE kini tersedia bagi HQ untuk membina salespage anda bagi sesuatu produk. BIZAPPAGE juga boleh digunakan bersama oleh ejen-ejen anda. Jom cuba sekarang!",
       "img": "https://firebasestorage.googleapis.com/v0/b/bizapptrackallonlineuser.appspot.com/o/salespagenx1pro.png?alt=media&token=de3c271b-657c-44dc-a181-80935fd47f96",
       "url": "https://www.facebook.com/bizappmalaysia/posts/pfbid024zfDh2WGPMzsjhrzB2G5RwoyCaWqj9FzfXMNd3HWSgBaVDBGrD3S9X5H61Yk7tsPl"
     },
     {
-      "id": 8,
+      "id": 10,
       "title": "Berita : Bizapp - WooCommerce (Affiliate)",
       "desc": "Anda seorang ejen? Ada website woocommerce sendiri dan mahu integrasikan produk-produk HQ anda? Jom cuba Bizapp-Woocommerce (Affiliate) sekarang!",
       "img": "https://firebasestorage.googleapis.com/v0/b/bizapptrackallonlineuser.appspot.com/o/230414_BIZAPP-WOOCOMMERCE%20(InApps).png?alt=media&token=b2c1d373-20ea-4b62-b020-335ed95d9678",
