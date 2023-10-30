@@ -2,76 +2,83 @@
   "trivia": [
     {
       "id": 1,
+      "title": "Trivia 💡 : Bizappay",
+      "desc": "Anda sebagai HQ/Stokis risau ejen/dropship anda hantar fake resit sebagai bukti pembayaran? Jom guna Bizappay! Membolehkan transaksi tempahan dibuat dihujung jari dan tidak perlu risau lagi tentang fake resit.",
+      "img": "",
+      "url": ""
+    },
+      {
+      "id": 2,
       "title": "Trivia 💡 : Smart Entry",
       "desc": "Selalu nak kena isi maklumat anda banyak kali setiap kali nak buat tempahan? Tahukah anda di dalam Bizapp terdapat butang Akaun Anda yang memudahkan maklumat anda terus di isi di dalam borang tempahan. Apa kata anda cuba sekarang.",
       "img": "",
       "url": ""
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Trivia 💡 : Produk",
       "desc": "Anda dah follow HQ/Stokis anda? Semak produk mereka di ruangan Menu --> Produk.",
       "img": "",
       "url": ""
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Trivia 💡 : Diskaun Mengikut Kuantiti",
       "desc": "Anda boleh setkan diskaun produk mengikut kuantiti di Menu --> Produk --> Produk Anda --> pilih produk dan tekan tetapkan diskaun mengikut kuantiti.",
       "img": "",
       "url": ""
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Trivia 💡 : Set Harga Bundle",
       "desc": "Pernah dengar beli 3 dapat harga RM 100? Fungsi ini sudah tersedia di dalam Bizapp! Pergi ke Menu --> Produk --> Produk Anda --> pilih Set Harga Bundle. Jom cuba sekarang.",
       "img": "",
       "url": ""
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Trivia 💡 : Upgrade Package",
       "desc": "Terdapat 6 pilihan pakej di dalam Bizapp. Lihat di Menu --> Upgrade Package.",
       "img": "",
       "url": ""
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Trivia 💡 : Rekod Tempahan",
       "desc": "Sebagai ejen atau dropship, anda juga boleh semak semula tempahan yang sudah anda hantar kepada HQ/Stokis. Semak di Menu --> Rekod Tempahan",
       "img": "",
       "url": ""
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Trivia 💡 : Koleksi Produk",
       "desc": "Tahukah anda, setiap produk anda boleh kategorikan ia supaya ejen/dropship/pelanggan dapat memudahkan carian produk anda? Cuba dulu di Menu --> Koleksi Produk. Selepas itu, kemaskini produk dan pilih koleksi yang anda sudah cipta tadi.",
       "img": "",
       "url": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Trivia 💡 : Integrasi Tiktok, Shopee, WooCommerce",
       "desc": "Anda menjual di Tiktok, Shopee dan WooCommerce ? Jom integrasikan platform anda dengan Bizapp eksklusif untuk pengguna Ultimate. Carian di Menu --> Tetapan --> Integrasi",
       "img": "",
       "url": ""
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Trivia 💡 : Label Tempahan",
       "desc": "Anda boleh setkan label tempahan untuk setiap tempahan mengikut pilihan anda. Jom cuba di Menu --> Label Tempahan",
       "img": "",
       "url": ""
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Trivia 💡 : Bizappay",
       "desc": "Aktifkan atau sambungkan akaun Bizapp dengan akaun Bizappay anda di Menu --> Profil & Tetapan --> FPX-Payment",
       "img": "",
       "url": ""
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Trivia 💡 : Bizappshop (Minishop)",
       "desc": "Anda tiada website dan mahu ada kedai online sendiri? Jom cuba Bizappshop(Minishop) dan paparkan produk-produk terus kepada pelanggan anda.",
       "img": "",
